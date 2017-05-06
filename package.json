@@ -1,0 +1,26 @@
+{
+  "name": "askaric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LevaBondarenko/askaric.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevaBondarenko/askaric/issues"
+  },
+  "homepage": "https://github.com/LevaBondarenko/askaric#readme",
+  "devDependencies": {
+    "pug": "^2.0.0-rc.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.5.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
