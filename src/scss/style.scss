@@ -1,0 +1,46 @@
+header {
+  background: red;
+
+  .topHeader {
+    width: 100%;
+
+    img {
+      width: 130px;
+      margin: 2rem 0;
+      float: left;
+    }
+
+    .modal_button {
+      float: right;
+      margin: 2rem 0;
+      padding: 1rem;
+      background: #fff;
+      border-radius: 1rem;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+}
+
+.video {
+  margin: 0;
+  border: 1px solid #ccc;
+
+  h2 {
+    text-align: center;
+  }
+
+  iframe {
+    margin: 4rem auto;
+    display: block;
+  }
+}
+
+.white {
+  background: #eee;
+}
+footer {
+  background: #444;
+  color: #fff;
+}
